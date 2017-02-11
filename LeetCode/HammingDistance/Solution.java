@@ -1,6 +1,7 @@
 package LeetCode.HammingDistance;
 
 // The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
+
 // Can also use Integer.bitCount() to find number of one bits in binary
 
 public class Solution {
