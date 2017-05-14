@@ -1,6 +1,5 @@
 package LeetCode.ReverseLinkedList;
 
-
 // Reverse a singly linked list.
 
 // Iterative solution
